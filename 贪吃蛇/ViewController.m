@@ -19,6 +19,8 @@ SnakeView *snake;
 - (void)viewDidLoad {
     [super viewDidLoad];
     //A Challenge Test
+    //A Challenge Test
+    //A Challenge Test
     CGRect rect = [[UIScreen mainScreen] bounds];
     CGFloat boundary_x = rect.size.width;
     CGFloat boundary_y = rect.size.height;
